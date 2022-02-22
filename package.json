@@ -1,0 +1,14 @@
+{
+  "name": "tuprop",
+  "version": "1.0.0",
+  "description": "Backend para tuProp",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.5.8"
+  }
+}
